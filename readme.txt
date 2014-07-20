@@ -5,8 +5,8 @@ Author URI: http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plu
 Plugin URI: http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plugin/
 Tags: popunder, pop-under, popup
 Requires at least: 3.4
-Tested up to: 3.9
-Stable tag: 1.0
+Tested up to: 3.9.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -73,8 +73,16 @@ FAQ Answer [http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plu
 
 * First version
 
+= 1.1 =
+
+* Fixed JavaScript warning message on JavaScript load.
+
 == Upgrade Notice ==
 
 = 1.0 =
 
 * First version
+
+= 1.1 =
+
+* Fixed JavaScript warning message on JavaScript load.

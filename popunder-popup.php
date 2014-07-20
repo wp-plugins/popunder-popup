@@ -3,7 +3,7 @@
 Plugin Name: Popunder Popup
 Plugin URI: http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plugin/
 Description: Pop-under popup is a plugin to load window behind the browser window of your website. or second smaller browser window upon clicking your website. This is a best plugin to show ad that is automatically displayed in a second smaller browser window upon clicking your website.
-Version: 1.0
+Version: 1.1
 Author: Gopi Ramasamy
 Donate link: http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plugin/
 Author URI: http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plugin/
@@ -37,7 +37,7 @@ add_action('admin_menu', array( 'popunderpopup_cls_registerhook', 'popunderpopup
 register_activation_hook(POPUNDER_FILE, array( 'popunderpopup_cls_registerhook', 'popunderpopup_activation' ));
 register_deactivation_hook(POPUNDER_FILE, array( 'popunderpopup_cls_registerhook', 'popunderpopup_deactivation' ));
 add_shortcode( 'popunder-popup', 'popunderpopup_shortcode' );
-add_action('wp_enqueue_scripts', array( 'popunderpopup_cls_registerhook', 'popunderpopup_add_javascript_files' ));
+add_action('wp_enqueue_scripts', 'popunderpopup_add_javascript_files');
 
 function popunderpopup_textdomain() 
 {

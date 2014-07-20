@@ -15,3 +15,7 @@ First version.
 *   Once per browser session
 *   Option to display random URL
 *   Supports localization
+
+********************************Version 1.1************************************************************
+
+* Fixed JavaScript warning message on JavaScript load.

@@ -72,13 +72,13 @@ class popunderpopup_cls_registerhook
 				__('Popunder popup', POPUNDER_TDOMAIN), 'manage_options', POPUNDER_PLUGIN_NAME, array( 'popunderpopup_cls_intermediate', 'popunderpopup_admin' ) );
 		}		
 	}
-	
-	function popunderpopup_add_javascript_files() 
+}
+
+function popunderpopup_add_javascript_files() 
+{
+	if (!is_admin())
 	{
-		if (!is_admin())
-		{
-			wp_enqueue_script('jquery');
-		}
+		wp_enqueue_script('jquery');
 	}
 }
 ?>
