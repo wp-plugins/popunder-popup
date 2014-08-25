@@ -5,8 +5,8 @@ Author URI: http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plu
 Plugin URI: http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plugin/
 Tags: popunder, pop-under, popup
 Requires at least: 3.4
-Tested up to: 3.9.1
-Stable tag: 1.1
+Tested up to: 4.0
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -45,7 +45,7 @@ Pop-under (popunder) popup is a plugin to load window behind the browser window 
 
 == Installation ==
 
-Installation Instruction and Configuration [Installation Instruction and Configuration] (http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plugin/)
+[Installation Instruction and Configuration](http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plugin/)
 
 == Frequently Asked Questions ==
 
@@ -58,8 +58,7 @@ Installation Instruction and Configuration [Installation Instruction and Configu
 *   How to display random url in the popup?
 *   How to setup auto expiration for pop-under window?
 
-FAQ Answer [http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plugin/]
-(http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plugin/)
+FAQ Answer [http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plugin/](http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plugin/)
 
 == Screenshots ==
 
@@ -77,6 +76,10 @@ FAQ Answer [http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plu
 
 * Fixed JavaScript warning message on JavaScript load.
 
+= 1.2 =
+
+* Tested up to 4.0
+
 == Upgrade Notice ==
 
 = 1.0 =
@@ -86,3 +89,7 @@ FAQ Answer [http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plu
 = 1.1 =
 
 * Fixed JavaScript warning message on JavaScript load.
+
+= 1.2 =
+
+* Tested up to 4.0
