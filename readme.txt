@@ -5,8 +5,8 @@ Author URI: http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plu
 Plugin URI: http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plugin/
 Tags: popunder, pop-under, popup
 Requires at least: 3.4
-Tested up to: 4.1
-Stable tag: 1.3
+Tested up to: 4.2.2
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -84,6 +84,10 @@ FAQ Answer [http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plu
 
 * Tested up to 4.1
 
+= 1.4 =
+
+1. Tested up to 4.2.2
+
 == Upgrade Notice ==
 
 = 1.0 =
@@ -101,3 +105,7 @@ FAQ Answer [http://www.gopiplus.com/work/2014/05/13/popunder-popup-wordpress-plu
 = 1.3 =
 
 * Tested up to 4.1
+
+= 1.4 =
+
+1. Tested up to 4.2.2
